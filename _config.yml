@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Shoaib Najeeb Arayilakath
+name: Shoaib Najeeb Arayilakath (SNA)
 
 # Short bio or description (displayed in the header)
 description: Data Scientist, Machine Learning Enthusiast, R Evangelist and Freelance Trainer
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/shoaibnajeeb
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: shoaibnajeeb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: SNA
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
